@@ -1,0 +1,1096 @@
+{
+  "categories": [
+    {
+      "name": "Electronics",
+      "subcategories": [
+        {
+          "name": "Smartphones",
+          "types": [
+            "5G Smartphones",
+            "Large Screen Smartphones",
+            "Budget Smartphones",
+            "Flagships"
+          ],
+          "brands": [
+            "Samsung",
+            "Apple",
+            "Xiaomi",
+            "Huawei",
+            "OnePlus",
+            "Sony",
+            "Google",
+            "Oppo",
+            "Realme"
+          ],
+          "products": [
+            { "name": "Smartphone Samsung Galaxy S21", "price": 25999 },
+            { "name": "Smartphone Apple iPhone 13", "price": 32999 },
+            { "name": "Xiaomi Mi 11 smartphone", "price": 19999 },
+            { "name": "Smartphone Huawei P40 Pro", "price": 24999 },
+            { "name": "OnePlus 9 smartphone", "price": 22999 },
+            { "name": "Smartphone Sony Xperia 5 II", "price": 29999 },
+            { "name": "Google Pixel 5 smartphone", "price": 28999 },
+            { "name": "Oppo Reno5 smartphone", "price": 19999 },
+            { "name": "Realme 8 Pro smartphone", "price": 17999 },
+            { "name": "Smartphone Samsung Galaxy A52", "price": 15999 },
+            { "name": "Smartphone Apple iPhone SE (2020)", "price": 19999 },
+            { "name": "Xiaomi Redmi Note 10 smartphone", "price": 11999 },
+            { "name": "Smartphone Huawei Nova 7i", "price": 14999 },
+            { "name": "OnePlus Nord smartphone", "price": 15999 },
+            { "name": "Smartphone Sony Xperia 1 III", "price": 34999 },
+            { "name": "Smartphone Google Pixel 4a", "price": 20999 },
+            { "name": "Oppo Find X3 smartphone", "price": 26999 },
+            { "name": "Realme 7 smartphone", "price": 14999 },
+            { "name": "Smartphone Samsung Galaxy Z Fold 3", "price": 55999 },
+            { "name": "Smartphone Apple iPhone 12 Pro Max", "price": 43999 },
+            { "name": "Xiaomi Poco F3 smartphone", "price": 15999 },
+            { "name": "Smartphone Huawei P30", "price": 22999 },
+            { "name": "OnePlus 8T smartphone", "price": 20999 },
+            { "name": "Smartphone Sony Xperia 10 II", "price": 17999 },
+            { "name": "Google Pixel 6 smartphone", "price": 31999 },
+            { "name": "Oppo A94 smartphone", "price": 13999 },
+            { "name": "Realme C21 smartphone", "price": 8999 },
+            { "name": "Smartphone Samsung Galaxy S20 FE", "price": 19999 },
+            { "name": "Smartphone Apple iPhone 12 mini", "price": 26999 },
+            { "name": "Xiaomi Mi 10T Pro smartphone", "price": 17999 },
+            { "name": "Smartphone Huawei Y9a", "price": 11999 },
+            { "name": "OnePlus 7T smartphone", "price": 18999 },
+            { "name": "Smartphone Sony Xperia 1 II", "price": 31999 },
+            { "name": "Google Pixel 4 smartphone", "price": 24999 },
+            { "name": "Oppo A74 smartphone", "price": 11999 },
+            { "name": "Realme 6 smartphone", "price": 12999 },
+            { "name": "Smartphone Samsung Galaxy M31", "price": 13999 },
+            { "name": "Smartphone Apple iPhone 11", "price": 24999 },
+            { "name": "Xiaomi Redmi 9 smartphone", "price": 9999 },
+            { "name": "Huawei Mate 40 Pro smartphone", "price": 37999 },
+            { "name": "OnePlus 6T smartphone", "price": 15999 },
+            { "name": "Smartphone Sony Xperia XZ3", "price": 21999 },
+            { "name": "Google Pixel 3 smartphone", "price": 19999 },
+            { "name": "Oppo F17 smartphone", "price": 13999 },
+            { "name": "Realme Narzo 30A smartphone", "price": 10999 },
+            { "name": "Smartphone Samsung Galaxy A32", "price": 12999 },
+            { "name": "Smartphone Apple iPhone XS", "price": 22999 },
+            { "name": "Xiaomi Mi Mix 3 smartphone", "price": 19999 },
+            { "name": "Smartphone Huawei Y7a", "price": 10999 },
+            { "name": "OnePlus 7 smartphone", "price": 17999 },
+            { "name": "Smartphone Sony Xperia XZ2", "price": 20999 },
+            { "name": "Google Pixel 2 smartphone", "price": 18999 },
+            { "name": "Oppo A53 smartphone", "price": 11999 },
+            {
+              "name": "Samsung Galaxy S21 Ultra 5G smartphone with a 6.8-inch display and a 108 MP camera",
+              "price": 45999
+            },
+            {
+              "name": "Apple iPhone 13 Pro smartphone with A15 Bionic chip and 6.1-inch OLED display",
+              "price": 48999
+            },
+            {
+              "name": "Xiaomi Mi 11 Ultra smartphone with 120X camera and 5000 mAh battery",
+              "price": 44999
+            },
+            {
+              "name": "Huawei P50 Pro smartphone with water resistance and Kirin 9000 processor",
+              "price": 43999
+            },
+            {
+              "name": "OnePlus 9 Pro smartphone with Fluid AMOLED display and support for fast charging 65W",
+              "price": 41999
+            },
+            {
+              "name": "Sony Xperia 1 III smartphone with 4K HDR OLED display and three Zeiss cameras",
+              "price": 49999
+            },
+            {
+              "name": "Google Pixel 6 Pro smartphone with Android 12 support and Google Tensor chip",
+              "price": 46999
+            },
+            {
+              "name": "Oppo Find X3 Pro smartphone with 10-bit color display and Snapdragon 888",
+              "price": 39999
+            },
+            {
+              "name": "Realme GT smartphone with Snapdragon 870 processor and 120Hz display support",
+              "price": 36999
+            },
+            {
+              "name": "Samsung Galaxy Z Fold 3 5G smartphone with flexible 7.6-inch display and S Pen support",
+              "price": 55999
+            },
+            {
+              "name": "Apple iPhone 12 Pro Max smartphone with LiDAR scanner and ceramic screen",
+              "price": 45999
+            },
+            {
+              "name": "Xiaomi Poco F3 smartphone with 120Hz display and 48 MP triple camera",
+              "price": 27999
+            },
+            {
+              "name": "Huawei Mate X2 smartphone with flexible OLED display and Kirin 9000 processor",
+              "price": 64999
+            },
+            {
+              "name": "OnePlus Nord 2 5G smartphone with 50 MP camera and 65W fast charging support",
+              "price": 23999
+            },
+            {
+              "name": "Sony Xperia 5 III smartphone with HDR OLED display and 5G support",
+              "price": 39999
+            },
+            {
+              "name": "Google Pixel 5a waterproof smartphone with 4680 mAh battery",
+              "price": 28999
+            },
+            {
+              "name": "Oppo Reno6 Pro 5G smartphone with 90Hz display and AI cameras",
+              "price": 32999
+            },
+            {
+              "name": "Realme 9 Pro+ smartphone with a 6.4-inch display and a triple camera of 50 MP",
+              "price": 22999
+            },
+            {
+              "name": "Samsung Galaxy Note 20 Ultra smartphone with S Pen and 108 MP camera",
+              "price": 49999
+            },
+            {
+              "name": "Apple iPhone 11 Pro smartphone with three cameras and A13 Bionic processor",
+              "price": 39999
+            },
+            {
+              "name": "Xiaomi Mi Mix Alpha smartphone with flexible display and 108 MP camera",
+              "price": 69999
+            },
+            {
+              "name": "Huawei Mate 30 Pro smartphone with a 6.53-inch display and a 40 MP camera",
+              "price": 45999
+            },
+            {
+              "name": "OnePlus 8 Pro smartphone with 120Hz AMOLED display and 5G support",
+              "price": 34999
+            },
+            {
+              "name": "Sony Xperia XZ Premium smartphone with 4K HDR display and super slow motion",
+              "price": 31999
+            },
+            {
+              "name": "Google Pixel 5 smartphone with 5G support and the latest Android features",
+              "price": 32999
+            },
+            {
+              "name": "Oppo Find X2 Pro smartphone with 48 MP camera and 120Hz display",
+              "price": 36999
+            },
+            {
+              "name": "Realme X7 Pro smartphone with AMOLED display and 65W fast charging",
+              "price": 24999
+            },
+            {
+              "name": "Samsung Galaxy A72 smartphone with a 6.7-inch display and a 64 MP camera",
+              "price": 22999
+            },
+            {
+              "name": "Apple iPhone 12 smartphone with Super Retina XDR display and 5G support",
+              "price": 37999
+            },
+            {
+              "name": "Xiaomi Mi 10 smartphone with Snapdragon 865 processor and 5G support",
+              "price": 28999
+            },
+            {
+              "name": "Huawei P40 smartphone with 6.1-inch OLED display and Leica camera",
+              "price": 26999
+            },
+            {
+              "name": "OnePlus Nord CE smartphone with 64 MP camera and 90Hz display",
+              "price": 20999
+            },
+            {
+              "name": "Sony Xperia 10 III smartphone with 5G support and OLED display",
+              "price": 19999
+            },
+            {
+              "name": "Google Pixel 4 XL smartphone with Night Sight camera and Snapdragon 855 processor",
+              "price": 28999
+            },
+            {
+              "name": "Oppo F19 Pro+ smartphone with support for 50W fast charging and AI camera",
+              "price": 24999
+            },
+            {
+              "name": "Realme GT Master Edition smartphone with 120Hz display and 64 MP camera",
+              "price": 21999
+            },
+            {
+              "name": "Samsung Galaxy Z Flip 3 smartphone with flexible display and 12 MP camera",
+              "price": 54999
+            },
+            {
+              "name": "Apple iPhone XS Max smartphone with 6.5-inch OLED display and Face ID",
+              "price": 41999
+            },
+            {
+              "name": "Xiaomi Poco X3 Pro smartphone with a powerful Snapdragon 860 processor",
+              "price": 19999
+            },
+            {
+              "name": "Huawei Y9 Prime smartphone with retractable camera and FullView display",
+              "price": 15999
+            },
+            {
+              "name": "OnePlus 7 Pro smartphone with 90Hz display and triple camera",
+              "price": 29999
+            },
+            {
+              "name": "Sony Xperia XZ1 smartphone with Motion Eye camera and 3D scanning support",
+              "price": 23999
+            },
+            {
+              "name": "Google Pixel 3 XL smartphone with Google Assistant support and a 3430 mAh battery",
+              "price": 22999
+            },
+            {
+              "name": "Oppo A95 smartphone with 48 MP camera and 5000 mAh battery",
+              "price": 17999
+            },
+            {
+              "name": "Realme 8 5G smartphone with 90Hz display and 5000 mAh battery",
+              "price": 14999
+            },
+            {
+              "name": "Samsung Galaxy A52s smartphone with a Snapdragon 778G processor and a 64 MP camera",
+              "price": 24999
+            },
+            {
+              "name": "Apple iPhone XR smartphone with Liquid Retina display and Face ID",
+              "price": 28999
+            },
+            {
+              "name": "Xiaomi Mi 9T Pro smartphone with retractable selfie camera and AMOLED display",
+              "price": 22999
+            },
+            {
+              "name": "Huawei Nova 7 smartphone with 64 MP camera and Kirin 985 processor",
+              "price": 23999
+            },
+            {
+              "name": "OnePlus Nord N10 smartphone with 5G support and 90Hz display",
+              "price": 18999
+            },
+            {
+              "name": "Sony Xperia L4 smartphone with a 21:9 display and a 3580 mAh battery",
+              "price": 13999
+            },
+            {
+              "name": "Google Pixel 3a smartphone with a 12.2 MP camera and Night Sight support",
+              "price": 17999
+            },
+            {
+              "name": "Oppo Reno4 Pro smartphone with 65W fast charging and 90Hz display",
+              "price": 26999
+            },
+            {
+              "name": "Realme 7 Pro smartphone with 4500 mAh battery and 65W fast charging",
+              "price": 18999
+            },
+            {
+              "name": "Samsung Galaxy M51 smartphone with 7000 mAh battery and 64 MP camera",
+              "price": 19999
+            },
+            {
+              "name": "Apple iPhone 8 Plus smartphone with dual camera and Portrait Mode function",
+              "price": 22999
+            },
+            {
+              "name": "Xiaomi Redmi K30 smartphone with 120Hz display and 5G support",
+              "price": 17999
+            },
+            {
+              "name": "Huawei P Smart 2021 smartphone with 48 MP camera and 5000 mAh battery",
+              "price": 13999
+            },
+            {
+              "name": "OnePlus Nord N200 smartphone with 5G support and 90Hz display",
+              "price": 16999
+            },
+            {
+              "name": "Sony Xperia Z5 Premium smartphone with 4K display and 23 MP camera",
+              "price": 25999
+            },
+            {
+              "name": "Google Pixel 6a smartphone with Google Tensor chip and 12.2 MP camera",
+              "price": 32999
+            },
+            {
+              "name": "Oppo A54 smartphone with HD+ display and 5000 mAh battery",
+              "price": 13999
+            },
+            {
+              "name": "Realme 9i smartphone with 5000 mAh battery and 33W fast charging",
+              "price": 15999
+            },
+            {
+              "name": "Samsung Galaxy S10+ smartphone with triple camera and Exynos 9820 processor",
+              "price": 36999
+            },
+            {
+              "name": "Apple iPhone X smartphone with Super Retina display and Face ID",
+              "price": 39999
+            },
+            {
+              "name": "Xiaomi Redmi Note 9 Pro smartphone with a 64 MP camera and a 6.67-inch display",
+              "price": 17999
+            },
+            {
+              "name": "Huawei P30 Lite smartphone with triple camera and Kirin 710 processor",
+              "price": 14999
+            }
+          ]
+        },
+        {
+          "name": "Laptops",
+          "types": ["Gaming laptops", "Ultrabooks", "Budget laptops"],
+          "brands": [
+            "Apple",
+            "Dell",
+            "HP",
+            "Lenovo",
+            "Acer",
+            "Asus",
+            "MSI",
+            "Razer"
+          ],
+          "products": [
+            { "name": "Apple MacBook Pro 13 laptop", "price": 59999 },
+            { "name": "Laptop Dell XPS 13", "price": 52999 },
+            { "name": "HP Specter x360 laptop", "price": 48999 },
+            { "name": "Lenovo ThinkPad X1 laptop", "price": 45999 },
+            { "name": "Acer Aspire 5 laptop", "price": 23999 },
+            { "name": "Asus ROG Strix G15 laptop", "price": 37999 },
+            { "name": "Laptop MSI GS66 Stealth", "price": 49999 },
+            { "name": "Razer Blade 15 laptop", "price": 52999 },
+            { "name": "Apple MacBook Air laptop", "price": 44999 },
+            { "name": "Laptop Dell Inspiron 15", "price": 21999 },
+            {
+              "name": "Apple MacBook Pro 13 laptop with M1 processor, 16 GB RAM and 512 GB SSD",
+              "price": 59999
+            },
+            {
+              "name": "Dell XPS 13 laptop with 4K display, Intel Core i7 processor and 16 GB of RAM",
+              "price": 52999
+            },
+            {
+              "name": "HP Specter x360 14 laptop with flexible display, Intel Core i7 processor and 1 TB SSD",
+              "price": 48999
+            },
+            {
+              "name": "Lenovo ThinkPad X1 Carbon Gen 9 laptop with Intel Core i7 processor, 16 GB RAM and 512 GB SSD",
+              "price": 45999
+            },
+            {
+              "name": "Acer Aspire 5 laptop with AMD Ryzen 5 processor, 8 GB RAM and 256 GB SSD",
+              "price": 23999
+            },
+            {
+              "name": "Asus ROG Strix G15 laptop with NVIDIA GeForce RTX 3060 video card, AMD Ryzen 7 processor and 16 GB RAM",
+              "price": 37999
+            },
+            {
+              "name": "MSI GS66 Stealth laptop with NVIDIA GeForce RTX 3070 video card, Intel Core i7 processor and 32 GB of RAM",
+              "price": 49999
+            },
+            {
+              "name": "Razer Blade 15 Advanced laptop with Intel Core i7 processor, NVIDIA GeForce RTX 3080 video card and 16 GB RAM",
+              "price": 52999
+            },
+            {
+              "name": "Apple MacBook Air laptop with M2 processor, 8 GB RAM and 256 GB SSD",
+              "price": 44999
+            },
+            {
+              "name": "Laptop Dell Inspiron 15 with Intel Core i5 processor, 8 GB RAM and 1 TB HDD",
+              "price": 21999
+            },
+            {
+              "name": "HP Envy 13 laptop with Intel Core i7 processor, 16 GB RAM and 512 GB SSD",
+              "price": 49999
+            },
+            {
+              "name": "Lenovo Yoga 7i laptop with flexible display, Intel Core i5 processor and 256 GB SSD",
+              "price": 35999
+            },
+            {
+              "name": "Acer Nitro 5 laptop with NVIDIA GeForce GTX 1650 graphics card, Intel Core i5 processor and 8 GB RAM",
+              "price": 27999
+            },
+            {
+              "name": "Asus ZenBook 14 laptop with AMD Ryzen 7 processor, 16 GB RAM and 512 GB SSD",
+              "price": 42999
+            },
+            {
+              "name": "MSI GF63 Thin laptop with Intel Core i5 processor, NVIDIA GeForce GTX 1650 video card and 8 GB RAM",
+              "price": 25999
+            },
+            {
+              "name": "Razer Book 13 laptop with Full HD display, Intel Core i7 processor and 16 GB of RAM",
+              "price": 43999
+            },
+            {
+              "name": "Apple MacBook Pro 16 laptop with Intel Core i9 processor, 32 GB RAM and 1 TB SSD",
+              "price": 79999
+            },
+            {
+              "name": "Dell Latitude 7410 laptop with Intel Core i7 processor, 16 GB RAM and 512 GB SSD",
+              "price": 54999
+            },
+            {
+              "name": "HP Omen 15 laptop with NVIDIA GeForce RTX 2060 video card, Intel Core i7 processor and 16 GB of RAM",
+              "price": 41999
+            },
+            {
+              "name": "Lenovo Legion 5 laptop with AMD Ryzen 7 processor, NVIDIA GeForce GTX 1650 video card and 16 GB RAM",
+              "price": 36999
+            },
+            {
+              "name": "Acer Swift 3 laptop with Intel Core i5 processor, 8 GB RAM and 512 GB SSD",
+              "price": 26999
+            },
+            {
+              "name": "Asus TUF Gaming A15 laptop with NVIDIA GeForce GTX 1650 video card, AMD Ryzen 5 processor and 8 GB RAM",
+              "price": 29999
+            },
+            {
+              "name": "MSI Creator 15 laptop with Intel Core i7 processor, NVIDIA GeForce RTX 2070 video card and 32 GB of RAM",
+              "price": 47999
+            },
+            {
+              "name": "Razer Blade Stealth 13 laptop with Intel Core i7 processor, 16 GB RAM and 256 GB SSD",
+              "price": 42999
+            },
+            {
+              "name": "Apple MacBook Pro 14 laptop with M1 Pro processor, 16 GB RAM and 512 GB SSD",
+              "price": 65999
+            },
+            {
+              "name": "Dell G5 15 laptop with NVIDIA GeForce GTX 1650 graphics card, Intel Core i7 processor and 16 GB RAM",
+              "price": 31999
+            },
+            {
+              "name": "HP Pavilion x360 laptop with flexible display, Intel Core i5 processor and 256 GB SSD",
+              "price": 27999
+            },
+            {
+              "name": "Lenovo IdeaPad Gaming 3 laptop with AMD Ryzen 5 processor, NVIDIA GeForce GTX 1650 video card and 8 GB RAM",
+              "price": 24999
+            },
+            {
+              "name": "Acer Predator Helios 300 laptop with NVIDIA GeForce RTX 3060 video card, Intel Core i7 processor and 16 GB of RAM",
+              "price": 39999
+            },
+            {
+              "name": "Asus VivoBook S15 laptop with Intel Core i7 processor, 16 GB RAM and 512 GB SSD",
+              "price": 35999
+            },
+            {
+              "name": "MSI Creator 17 laptop with 4K display, Intel Core i9 processor and NVIDIA GeForce RTX 3070 video card",
+              "price": 54999
+            },
+            {
+              "name": "Razer Blade 17 Pro laptop with NVIDIA GeForce RTX 3080 graphics card, Intel Core i9 processor and 32 GB RAM",
+              "price": 69999
+            },
+            {
+              "name": "Apple MacBook Air laptop with M2 processor, 16 GB RAM and 512 GB SSD",
+              "price": 49999
+            },
+            {
+              "name": "Dell Inspiron 14 laptop with Intel Core i5 processor, 8 GB RAM and 256 GB SSD",
+              "price": 23999
+            },
+            {
+              "name": "HP Envy x360 laptop with AMD Ryzen 7 processor, 16 GB RAM and 512 GB SSD",
+              "price": 42999
+            },
+            {
+              "name": "Lenovo ThinkPad L14 laptop with Intel Core i5 processor, 8 GB RAM and 256 GB SSD",
+              "price": 21999
+            },
+            {
+              "name": "Acer Chromebook 14 laptop with Intel Celeron processor, 4 GB RAM and 64 GB eMMC",
+              "price": 14999
+            },
+            {
+              "name": "Asus ExpertBook B9 laptop with Intel Core i7 processor, 16 GB RAM and 512 GB SSD",
+              "price": 45999
+            },
+            {
+              "name": "MSI Prestige 14 laptop with Intel Core i7 processor, 16 GB RAM and 512 GB SSD",
+              "price": 39999
+            },
+            {
+              "name": "Razer Blade 15 Base laptop with NVIDIA GeForce GTX 1660 Ti graphics card, Intel Core i7 processor and 16 GB RAM",
+              "price": 34999
+            },
+            {
+              "name": "Apple MacBook Pro 16 laptop with M1 Max processor, 32 GB RAM and 1 TB SSD",
+              "price": 87999
+            },
+            {
+              "name": "Dell Vostro 15 laptop with Intel Core i5 processor, 8 GB RAM and 1 TB HDD",
+              "price": 22999
+            }
+          ]
+        },
+        {
+          "name": "Smartwatch",
+          "types": [
+            "Fitness Trackers",
+            "Premium Smart Watches",
+            "Sports Watches"
+          ],
+          "brands": [
+            "Apple",
+            "Samsung",
+            "Xiaomi",
+            "Garmin",
+            "Fitbit",
+            "Huawei",
+            "Suunto"
+          ],
+          "products": [
+            { "name": "Smart watch Apple Watch Series 7", "price": 14999 },
+            { "name": "Smart watch Samsung Galaxy Watch 4", "price": 9999 },
+            { "name": "Xiaomi Mi Band 6 fitness bracelet", "price": 1499 },
+            { "name": "Smart watch Garmin Forerunner 945", "price": 17999 },
+            { "name": "Fitbit Sense smart watch", "price": 11999 },
+            { "name": "Smart watch Huawei Watch GT 3", "price": 8999 },
+            { "name": "Suunto 9 Smart Watch", "price": 19999 },
+            { "name": "Smart watch Apple Watch SE", "price": 10999 },
+            {
+              "name": "Apple Watch Series 7 Smart Watch with Always-On Display, 45 mm, GPS + Cellular",
+              "price": 14999
+            },
+            {
+              "name": "Samsung Galaxy Watch 4 smart watch with health monitoring function, 40 mm, GPS",
+              "price": 9999
+            },
+            {
+              "name": "Xiaomi Mi Band 6 fitness bracelet with OLED display, heart rate monitoring and training modes",
+              "price": 1499
+            },
+            {
+              "name": "Garmin Forerunner 945 Smartwatch with GPS, heart rate monitoring, sports performance tracking and long battery life",
+              "price": 17999
+            },
+            {
+              "name": "Fitbit Sense smartwatch with ECG sensor, stress monitoring and advanced health monitoring",
+              "price": 11999
+            },
+            {
+              "name": "Huawei Watch GT 3 smart watch with AMOLED display, GPS, health monitoring and long battery life",
+              "price": 8999
+            },
+            {
+              "name": "Suunto 9 smartwatch with long battery life, sports performance monitoring and GPS",
+              "price": 19999
+            },
+            {
+              "name": "Apple Watch SE smart watch with a large display, monitoring of physical activity and hands-free function",
+              "price": 10999
+            },
+            {
+              "name": "Garmin Venu 2 smart watch with AMOLED display, pulse and stress monitoring, GPS",
+              "price": 13999
+            },
+            {
+              "name": "Huawei Band 6 fitness bracelet with a large AMOLED display, pulse monitoring and rich training modes",
+              "price": 1799
+            },
+            {
+              "name": "Smart watch Suunto 7 with Wear OS, map and GPS support, training monitoring",
+              "price": 14999
+            },
+            {
+              "name": "Fitbit Versa 3 smartwatch with GPS, heart rate monitoring and sleep tracking",
+              "price": 9999
+            },
+            {
+              "name": "Samsung Galaxy Watch Active 2 smart watch with round AMOLED display, pulse and stress monitoring",
+              "price": 8999
+            },
+            {
+              "name": "Apple Watch Ultra smartwatch with improved design for extreme conditions, GPS + Cellular, 49 mm",
+              "price": 21999
+            },
+            {
+              "name": "Garmin Fenix ​​6 Pro smart watch with multisport functions, GPS, and maps for navigation",
+              "price": 26999
+            },
+            {
+              "name": "Xiaomi Mi Band 7 fitness bracelet with AMOLED display, training modes and pulse monitoring",
+              "price": 1699
+            },
+            {
+              "name": "Huawei Watch Fit 2 smart watch with a large AMOLED display, pulse and activity monitoring",
+              "price": 6999
+            },
+            {
+              "name": "Fitbit Charge 5 smartwatch with EKG, heart rate monitor and sleep tracker",
+              "price": 12999
+            },
+            {
+              "name": "Suunto 5 Peak smart watch with GPS, battery life up to 100 hours and training monitoring",
+              "price": 12999
+            },
+            {
+              "name": "Apple Watch Series 6 smart watch with blood oxygen measurement, ECG and large display",
+              "price": 17999
+            },
+            {
+              "name": "Garmin Forerunner 745 smartwatch with sports tracking, GPS and health monitoring",
+              "price": 15999
+            },
+            {
+              "name": "Samsung Galaxy Watch 5 smart watch with improved health monitoring, GPS and long battery life",
+              "price": 12999
+            },
+            {
+              "name": "Fitbit Luxe fitness bracelet with premium design, heart rate monitoring and training modes",
+              "price": 9999
+            },
+            {
+              "name": "Garmin Vivosmart 4 smart watch with a sleek design, health and activity monitoring",
+              "price": 7999
+            },
+            {
+              "name": "Suunto 9 Baro smart watch with long battery, GPS and various sports modes",
+              "price": 21999
+            },
+            {
+              "name": "Apple Watch SE (2nd Gen) smartwatch with new health monitoring functions and updated design",
+              "price": 13999
+            },
+            {
+              "name": "Huawei Watch GT 3 Pro smart watch with elegant design, GPS and advanced health monitoring",
+              "price": 15999
+            },
+            {
+              "name": "Garmin Enduro smartwatch with extreme battery life, GPS and training monitoring",
+              "price": 29999
+            },
+            {
+              "name": "Fitbit Versa 4 smartwatch with new training and health features, GPS and long battery life",
+              "price": 13999
+            },
+            {
+              "name": "Samsung Galaxy Watch 4 Classic smart watch with classic design, GPS and health monitoring function",
+              "price": 13999
+            },
+            {
+              "name": "Xiaomi Mi Band 5 fitness bracelet with improved display, pulse monitoring and new training modes",
+              "price": 1199
+            },
+            {
+              "name": "Garmin Fenix ​​7 smart watch with AMOLED display, GPS, long-lasting battery and training monitoring",
+              "price": 34999
+            },
+            {
+              "name": "Suunto 7 smartwatch with Wear OS, training tracking and large AMOLED display",
+              "price": 15999
+            },
+            {
+              "name": "Apple Watch Series 8 smartwatch with new health monitoring features and updated design",
+              "price": 18999
+            },
+            {
+              "name": "Huawei Watch Fit Mini smart watch with compact design, training and health monitoring function",
+              "price": 6999
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Household appliances",
+      "subcategories": [
+        {
+          "name": "Refrigerators",
+          "types": ["Double chamber", "With freezer", "Built-in"],
+          "brands": [
+            "Samsung",
+            "LG",
+            "Bosch",
+            "Whirlpool",
+            "Indesit",
+            "Electrolux"
+          ],
+          "products": [
+            { "name": "Refrigerator Samsung RB34T600FSA", "price": 18999 },
+            { "name": "Refrigerator LG GA-B509CEQM", "price": 20999 },
+            { "name": "Bosch refrigerator KGN36VL35U", "price": 23999 },
+            {
+              "name": "Samsung RB34T600FSA refrigerator with No Frost technology, 350 l, zones for fresh products and a freezer",
+              "price": 18999
+            },
+            {
+              "name": "LG GA-B509CEQM refrigerator with inverter compressor, 390 l, antibacterial coating and Total No Frost system",
+              "price": 20999
+            },
+            {
+              "name": "Bosch KGN36VL35U low-noise refrigerator, 300 l, No Frost system, Super Cooling mode",
+              "price": 23999
+            },
+            {
+              "name": "Whirlpool WQ9 B1L refrigerator with 6th Sense technology, 350 l, MultiFlow system for uniform cooling",
+              "price": 26999
+            },
+            {
+              "name": "Electrolux EN3453JOX refrigerator with TwinTech technology, 330 l, FastFreeze function and LED lighting",
+              "price": 22999
+            },
+            {
+              "name": "Indesit DF5200W refrigerator with energy class A+, 320 l, antibacterial coating system and convenient shelves",
+              "price": 18999
+            },
+            {
+              "name": "Samsung RB34T675DSA refrigerator with SpaceMax system, 340 l, No Frost and Smart Convert technology",
+              "price": 22999
+            },
+            {
+              "name": "LG GBB72MCUFN refrigerator with Linear Cooling technology, 350 l, Fresh 0 Zone function and Smart Inverter Compressor",
+              "price": 24999
+            },
+            {
+              "name": "Bosch KGN49XIEP refrigerator with VitaFresh function, 500 l, MultiAirflow and LED lighting",
+              "price": 31999
+            },
+            {
+              "name": "Whirlpool W7 821O W refrigerator with 6th Sense technology, 340 l, No Frost and Cool Care system",
+              "price": 25999
+            },
+            {
+              "name": "Electrolux refrigerator ENN2801AOW with Quick Cool function, 280 l, FrostFree system and LED lighting",
+              "price": 18999
+            },
+            {
+              "name": "Indesit DS 4200 X refrigerator with super cooling function, 320 l, No Frost technology and energy class A+",
+              "price": 19999
+            },
+            {
+              "name": "Samsung RB34T670DSA refrigerator with large freezer, 350 l, No Frost system and inverter compressor",
+              "price": 23999
+            },
+            {
+              "name": "LG GA-B509SEQZ refrigerator with antibacterial coating, 390 l, Total No Frost system and Smart Inverter Compressor",
+              "price": 21999
+            },
+            {
+              "name": "Bosch KGN36XIEP refrigerator with supercooling mode, 300 l, No Frost and MultiAirflow system",
+              "price": 24999
+            },
+            {
+              "name": "Whirlpool WQ9 B1L refrigerator with FreshBox technology, 350 l, 6th Sense system and inverter compressor",
+              "price": 26999
+            },
+            {
+              "name": "Electrolux EN3853JOW refrigerator with large freezer, 330 l, TwinTech technology and No Frost system",
+              "price": 23999
+            },
+            {
+              "name": "Indesit DF5200X refrigerator with antibacterial coating technology, 320 l, No Frost system and LED lighting",
+              "price": 19999
+            },
+            {
+              "name": "Samsung RB34T675EWW refrigerator with SpaceMax system, 340 l, No Frost technology and inverter compressor",
+              "price": 24999
+            },
+            {
+              "name": "LG GBB72MCUFN refrigerator with Linear Cooling technology, 350 l, Fresh 0 Zone function and Smart Inverter Compressor",
+              "price": 25999
+            },
+            {
+              "name": "Bosch KGN49XIEP refrigerator with VitaFresh system, 500 l, MultiAirflow and LED lighting",
+              "price": 33999
+            },
+            {
+              "name": "Whirlpool W7 821O W refrigerator with 6th Sense technology, 340 l, No Frost and Cool Care system",
+              "price": 26999
+            },
+            {
+              "name": "Electrolux refrigerator ENN2801AOW with Quick Cool function, 280 l, FrostFree system and LED lighting",
+              "price": 19999
+            },
+            {
+              "name": "Indesit DS 4200 X refrigerator with super cooling function, 320 l, No Frost technology and energy class A+",
+              "price": 20999
+            },
+            {
+              "name": "Samsung RB34T670EWW refrigerator with large freezer, 350 l, No Frost system and inverter compressor",
+              "price": 23999
+            },
+            {
+              "name": "LG GA-B509SEQZ refrigerator with antibacterial coating, 390 l, Total No Frost system and Smart Inverter Compressor",
+              "price": 22999
+            },
+            {
+              "name": "Bosch KGN36XIEP refrigerator with supercooling mode, 300 l, No Frost and MultiAirflow system",
+              "price": 25999
+            },
+            {
+              "name": "Whirlpool WQ9 B1L refrigerator with FreshBox technology, 350 l, 6th Sense system and inverter compressor",
+              "price": 27999
+            },
+            {
+              "name": "Electrolux EN3853JOW refrigerator with large freezer, 330 l, TwinTech technology and No Frost system",
+              "price": 24999
+            },
+            {
+              "name": "Indesit DF5200X refrigerator with antibacterial coating technology, 320 l, No Frost system and LED lighting",
+              "price": 20999
+            },
+            {
+              "name": "Samsung RB34T675EWW refrigerator with SpaceMax system, 340 l, No Frost technology and inverter compressor",
+              "price": 25999
+            },
+            {
+              "name": "LG GBB72MCUFN refrigerator with Linear Cooling technology, 350 l, Fresh 0 Zone function and Smart Inverter Compressor",
+              "price": 26999
+            },
+            {
+              "name": "Bosch KGN49XIEP refrigerator with VitaFresh system, 500 l, MultiAirflow and LED lighting",
+              "price": 34999
+            },
+            {
+              "name": "Whirlpool W7 821O W refrigerator with 6th Sense technology, 340 l, No Frost and Cool Care system",
+              "price": 27999
+            },
+            {
+              "name": "Electrolux refrigerator ENN2801AOW with Quick Cool function, 280 l, FrostFree system and LED lighting",
+              "price": 20999
+            },
+            {
+              "name": "Indesit DS 4200 X refrigerator with super cooling function, 320 l, No Frost technology and energy class A+",
+              "price": 21999
+            },
+            {
+              "name": "Samsung RB34T670EWW refrigerator with large freezer, 350 l, No Frost system and inverter compressor",
+              "price": 24999
+            },
+            {
+              "name": "LG GA-B509SEQZ refrigerator with antibacterial coating, 390 l, Total No Frost system and Smart Inverter Compressor",
+              "price": 23999
+            },
+            {
+              "name": "Bosch KGN36XIEP refrigerator with supercooling mode, 300 l, No Frost and MultiAirflow system",
+              "price": 26999
+            },
+            {
+              "name": "Whirlpool WQ9 B1L refrigerator with FreshBox technology, 350 l, 6th Sense system and inverter compressor",
+              "price": 28999
+            },
+            {
+              "name": "Electrolux EN3853JOW refrigerator with large freezer, 330 l, TwinTech technology and No Frost system",
+              "price": 25999
+            }
+          ]
+        },
+        {
+          "name": "Washing machines",
+          "types": [
+            "Front loading",
+            "Vertical loading",
+            "Compact washing machines"
+          ],
+          "brands": ["Samsung", "LG", "Bosch", "Whirlpool", "Indesit"],
+          "products": [
+            { "name": "Washing machine Samsung WW80K52E61W", "price": 14999 },
+            { "name": "Washing machine LG F2V5HS0W", "price": 17999 },
+            { "name": "Washing machine Bosch WAN2416SPL", "price": 19999 },
+            {
+              "name": "Samsung WW80K52E61W washing machine with front loading, 8 kg, EcoBubble function, quick wash 15 min",
+              "price": 14999
+            },
+            {
+              "name": "LG F2V5HS0W front-loading washing machine, 9 kg, 6 Motion Direct Drive technology, TurboWash function",
+              "price": 17999
+            },
+            {
+              "name": "Bosch WAN2416SPL washing machine with front loading, 8 kg, VarioPerfect function, ActiveWater system",
+              "price": 19999
+            },
+            {
+              "name": "Whirlpool FWL81283W front-loading washing machine, 8 kg, 6th Sense technology, FreshCare+ system",
+              "price": 16999
+            },
+            {
+              "name": "Indesit BWE 81283X S washing machine with front loading, 8 kg, Push&Wash function, delicate washing mode",
+              "price": 13999
+            },
+            {
+              "name": "Samsung WF80F5E5U4W washing machine with front loading, 8 kg, AddWash technology, Bubble Soak function",
+              "price": 15999
+            },
+            {
+              "name": "LG F4V5VYP2T washing machine with front loading, 10.5 kg, AI DD technology, Steam+ function",
+              "price": 21999
+            },
+            {
+              "name": "Bosch WAT28661GB washing machine with front loading, 9 kg, i-DOS function, EcoSilence Drive system",
+              "price": 23999
+            },
+            {
+              "name": "Whirlpool FWDD117168W front-loading washing machine, 11 kg, 6th Sense function, SteamCare technology",
+              "price": 22999
+            },
+            {
+              "name": "Indesit IWC 6105 washing machine with vertical loading, 6 kg, Fast Wash mode, Delay Timer function",
+              "price": 11999
+            },
+            {
+              "name": "Samsung WF60F4E0W2W washing machine with front loading, 6 kg, EcoBubble technology, quick wash mode",
+              "price": 12999
+            },
+            {
+              "name": "LG F2J5WN2W washing machine with front loading, 7 kg, 6 Motion technology, Smart ThinQ function",
+              "price": 13999
+            },
+            {
+              "name": "Bosch WAE24468GB washing machine with front loading, 7 kg, VarioPerfect function, AquaStop system",
+              "price": 14999
+            },
+            {
+              "name": "Whirlpool FWL 71252 W front-loading washing machine, 7 kg, 6th Sense technology, FreshCare function",
+              "price": 13999
+            },
+            {
+              "name": "Indesit BWSE 71051 X washing machine with front loading, 7 kg, Quick Wash mode, AutoSense function",
+              "price": 12999
+            },
+            {
+              "name": "Washing machine Samsung WW70J3060LW with front loading, 7 kg, Diamond Drum technology, Eco Bubble mode",
+              "price": 13999
+            },
+            {
+              "name": "LG F2J7HS6W washing machine with front loading, 8 kg, 6 Motion Direct Drive technology, Smart Diagnosis function",
+              "price": 15999
+            },
+            {
+              "name": "Bosch WAT286H0GB washing machine with front loading, 9 kg, ActiveWater Plus system, EcoSilence function",
+              "price": 22999
+            },
+            {
+              "name": "Whirlpool FWDD117168W front-loading washing machine, 11 kg, 6th Sense technology, SteamCare mode",
+              "price": 23999
+            },
+            {
+              "name": "Indesit IWDC 7105 front-loading washing machine, 7 kg, Baby Care function, Sport mode",
+              "price": 13999
+            },
+            {
+              "name": "Samsung WF80F5E5P4W washing machine with front loading, 8 kg, EcoBubble technology, Quick Wash mode",
+              "price": 15999
+            },
+            {
+              "name": "LG F4J6VY2W washing machine with front loading, 8 kg, AI DD technology, TurboWash function",
+              "price": 17999
+            },
+            {
+              "name": "Bosch WAW32560GB washing machine with front loading, 9 kg, i-DOS system, EcoSilence technology",
+              "price": 24999
+            },
+            {
+              "name": "Whirlpool FWL 61252 W front-loading washing machine, 6 kg, 6th Sense function, FreshCare+ mode",
+              "price": 12999
+            },
+            {
+              "name": "Indesit IWSC 51051 C front-loading washing machine, 5 kg, Super Short mode, AutoBalance function",
+              "price": 11999
+            },
+            {
+              "name": "Washing machine Samsung WW70J5555DW with front loading, 7 kg, AddWash technology, EcoBubble function",
+              "price": 14999
+            },
+            {
+              "name": "LG F4V9RWP2S washing machine with front loading, 9 kg, AI DD technology, Steam+ function",
+              "price": 19999
+            },
+            {
+              "name": "Bosch WAT28351GB washing machine with front loading, 8 kg, EcoSilence Drive system, VarioPerfect function",
+              "price": 18999
+            },
+            {
+              "name": "Whirlpool FWL 81283W front-loading washing machine, 8 kg, 6th Sense technology, SteamCare mode",
+              "price": 15999
+            },
+            {
+              "name": "Indesit IWC 71251 X front-loading washing machine, 7 kg, Push&Wash function, Delicate mode",
+              "price": 13999
+            },
+            {
+              "name": "Samsung WW70J5555DW front-loading washing machine, 7 kg, AddWash and EcoBubble",
+              "price": 15999
+            },
+            {
+              "name": "LG F4V9RWP2S washing machine with front loading, 9 kg, AI DD technology, Steam+ function",
+              "price": 19999
+            },
+            {
+              "name": "Bosch WAT28351GB washing machine with front loading, 8 kg, EcoSilence Drive system, VarioPerfect function",
+              "price": 18999
+            },
+            {
+              "name": "Whirlpool FWL 81283W front-loading washing machine, 8 kg, 6th Sense technology, SteamCare mode",
+              "price": 15999
+            },
+            {
+              "name": "Indesit IWC 71251 X front-loading washing machine, 7 kg, Push&Wash function, Delicate mode",
+              "price": 13999
+            },
+            {
+              "name": "Samsung WW70J5555DW front-loading washing machine, 7 kg, AddWash and EcoBubble",
+              "price": 15999
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Clothes",
+      "subcategories": [
+        {
+          "name": "Men's Clothing",
+          "types": ["Jackets", "T-shirts", "Jeans", "Suits"],
+          "brands": ["Adidas", "Nike", "Puma", "Reebok", "Levi's", "Zara"],
+          "products": [
+            { "name": "Adidas Originals NMD Jacket", "price": 3499 },
+            { "name": "Nike Air Max T-shirt", "price": 999 },
+            { "name": "Jeans Levi's 501 Original Fit", "price": 2499 },
+            { "name": "Puma RS-X jacket", "price": 3599 },
+            { "name": "Reebok Classic T-shirt", "price": 1099 },
+            { "name": "Zara Slim Fit Jeans", "price": 2399 },
+            { "name": "Nike Tech Fleece Suit", "price": 4999 },
+            { "name": "Adidas Essentials T-shirt", "price": 899 },
+            { "name": "Reebok Winter Jacket", "price": 3899 },
+            { "name": "Jeans Puma Street", "price": 2599 }
+          ]
+        },
+        {
+          "name": "Women's Clothing",
+          "types": ["Dresses", "Skirts", "Blouses", "Jeans"],
+          "brands": ["Zara", "H&M", "Mango", "Levi's"],
+          "products": [
+            { "name": "Zara Basic Dress", "price": 1999 },
+            { "name": "Jeans Levi's 721 High Rise", "price": 2599 },
+            { "name": "H&M A-Line skirt", "price": 1299 },
+            { "name": "Mango Satin blouse", "price": 1599 },
+            { "name": "H&M Floral Dress", "price": 2199 },
+            { "name": "Mango Skinny Jeans", "price": 2399 },
+            { "name": "Zara Midi Skirt", "price": 1499 },
+            { "name": "Zara Printed blouse", "price": 1399 },
+            { "name": "Mango Wrap Dress", "price": 2299 },
+            { "name": "Jeans Levi's 501 Original", "price": 2499 }
+          ]
+        }
+      ]
+    }
+  ]
+}
