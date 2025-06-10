@@ -1,6 +1,6 @@
 const admin = require('firebase-admin');
 const path = require('path')
-
+const fs = require('fs')
 // FOR DEPLOY
 const serviceAccountPath = path.resolve(__dirname, 'serviceAccountKey.json');
 const serviceAccount = JSON.parse(fs.readFileSync(serviceAccountPath, 'utf8'));
