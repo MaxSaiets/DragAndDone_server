@@ -8,7 +8,7 @@ const { initializeSocket } = require('./utils/socket')
 const { sequelize } = require('./models')
 const errorHandler = require('./middleware/ErrorHandlingMiddleware')
 const { User, Task, Team } = require('./models')
-
+const port = process.env.PORT || 9000
 // Ініціалізація Express
 const app = express()
 const server = http.createServer(app)
@@ -337,9 +337,8 @@ async function start() {
         sequelize.sync({ alter: true })
         console.log('Database synced successfully')
 
-        const PORT = process.env.PORT || 3001
-        server.listen(PORT, () => {
-            console.log(`Server is running on port ${PORT}`)
+        server.listen(port, () => {
+            console.log(`Server is running on port ${port}`)
         })
     } catch (error) {
         console.error('Error starting server:', error)
