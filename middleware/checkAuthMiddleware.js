@@ -1,4 +1,4 @@
-const { User } = require("../models/models");
+const { User } = require("../models");
 const admin = require('firebase-admin');
 
 async function checkAuthMiddleware(req, res, next) {

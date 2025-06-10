@@ -1,22 +1,25 @@
-class ApiError extends Error{ // розширяєм клас Error
-    constructor(status, message){
-        super(); // викликаєм родительський конструктор
-        this.status = status
-        this.message = message
+class ApiError extends Error {
+    constructor(status, message) {
+        super();
+        this.status = status;
+        this.message = message;
     }
 
-    // статична функція - це функція яку можна викликати без створення обєкта
-    static badRequest(message){
-        return new ApiError(404, message)
+    static badRequest(message) {
+        return new ApiError(400, message); // 400 - Bad Request
     }
 
-    static internal(message){ // internal - внутрішня (500 - ошибка з сервером)
-        return new ApiError(500, message)
+    static notFound(message) {
+        return new ApiError(404, message); // 404 - Not Found
     }
 
-    static forbidden(message){ // відсутній доступ
-        return new ApiError(403, message)
+    static internal(message) {
+        return new ApiError(500, message); // 500 - Internal Server Error
+    }
+
+    static forbidden(message) {
+        return new ApiError(403, message); // 403 - Forbidden
     }
 }
 
-module.exports = ApiError
+module.exports = ApiError;

@@ -1,4 +1,4 @@
-const { User } = require("../models/models");
+const { User } = require("../models");
 const ApiError = require("../error/ApiError");
 const admin = require('firebase-admin');
 

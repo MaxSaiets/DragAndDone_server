@@ -5,8 +5,9 @@ const authMiddleware = require('../middleware/authMiddleware')
 
 // методи для user
 router.post('/getOrsaveNewUserInDatabase', userController.getOrsaveNewUserInDatabase)  
-router.post('/getUserFromDatabase', userController.getUserFromDatabase) 
+router.post('/getUserFromDatabase', authMiddleware, userController.getUserFromDatabase) 
 router.get('/auth', authMiddleware, userController.checkAuth) // чи авторизований користувач по jwt токену
+router.post('/checkUserByEmail', userController.checkUserByEmail);
 
 module.exports = router
 
